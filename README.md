@@ -3,6 +3,7 @@
 [![Go Reference](https://pkg.go.dev/badge/github.com/peasytools/peasy-image-go.svg)](https://pkg.go.dev/github.com/peasytools/peasy-image-go)
 [![Go Report Card](https://goreportcard.com/badge/github.com/peasytools/peasy-image-go)](https://goreportcard.com/report/github.com/peasytools/peasy-image-go)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://agentgif.com/badge/github/peasytools/peasy-image-go/stars.svg)](https://github.com/peasytools/peasy-image-go)
 
 Go client for the [PeasyImage](https://peasyimage.com) API — compress, resize, convert, and crop images. Built with `net/http`, `encoding/json`, and zero external dependencies.
 
