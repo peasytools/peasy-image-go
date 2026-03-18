@@ -12,7 +12,7 @@ Built from [PeasyImage](https://peasyimage.com), a comprehensive image processin
 > **Try the interactive tools at [peasyimage.com](https://peasyimage.com)** — [Compress Image](https://peasyimage.com/image/compress-image/), [Resize Image](https://peasyimage.com/image/resize-image/), [Convert Image](https://peasyimage.com/image/convert-image/), [Crop Image](https://peasyimage.com/image/crop-image/), and more.
 
 <p align="center">
-  <img src="demo.gif" alt="peasy-image-go demo — image compress, resize, and convert tools in Go terminal" width="800">
+  <a href="https://agentgif.com/sGIYH1cj"><img src="https://media.agentgif.com/sGIYH1cj.gif" alt="peasy-image-go demo — image compress, resize, and convert tools in Go terminal" width="800"></a>
 </p>
 
 ## Table of Contents
